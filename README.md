@@ -1,7 +1,7 @@
 # exmp1
 First Git Repository. 
 <br>
-Author - Kunali Nemade
+Author - Kunali Kishor Nemade
 <br>
 Date - 6/7/25
 <br>
